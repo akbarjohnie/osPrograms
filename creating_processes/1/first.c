@@ -1,9 +1,3 @@
-/*
-
-Выводит индентификатор текущего и родительского процесса
-
-*/
-
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
